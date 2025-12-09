@@ -2,4 +2,5 @@ function scrollToSection(id) {
     const section = document.getElementById(id);
     section.scrollIntoView({ behavior: 'smooth' });
 # Added comment
+# Added comment
 }
